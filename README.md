@@ -4,6 +4,8 @@ Tailwind CSS has become very popular despite its short time in the market and on
 
 This repository: <https://github.com/anibalsanchez/Tim-Davis-Watch-Me-Work-Tailwind-CSS-with-Anibal-Sanchez>
 
+![A Tailwind CSS Card](https://blog.anibalhsanchez.com/images/a-tailwind-css-card.png)
+
 1. Starting projects with Tailwind CSS
 1. Comparison with the monolithic framework Bootstrap
 1. Documentation, references, components, utilities and materials for the use of Tailwind CSS
@@ -13,7 +15,7 @@ This repository: <https://github.com/anibalsanchez/Tim-Davis-Watch-Me-Work-Tailw
 1. Test of stylesheet generated with Tailwind in Joomla 4
 1. Iterative and evolutionary design
 1. Performance analysis and Tailwind generated code
-1. Comparison of Tailwind with other frameworks: Bootstrap, Bulma, Foundation, Tachyons, Semantic and Materialize
+1. Comparison of Tailwind with other frameworks, such as Bootstrap, Bulma, Foundation, Tachyons, Semantic and Materialize
 1. Implementation of inline styles, user.css stylesheet or complete template
 1. Conclusions, advanced design, prototypes and next steps
 
@@ -34,6 +36,7 @@ Youtube:  <https://www.youtube.com/watch?v=YhrGpELIuiI>
 - Made with Tailwind CSS: https://builtwithtailwind.com
 - Handy cheat-sheet: https://nerdcave.com/tailwind-cheat-sheet
 - Tailwind CSS Sandbox: https://tailwind.run/new
+- Awesome Tailwind CSS: https://github.com/aniftyco/awesome-tailwindcss
 
 ## Requirements
 

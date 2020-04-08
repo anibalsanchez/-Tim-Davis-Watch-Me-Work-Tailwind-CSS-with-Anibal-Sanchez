@@ -1,0 +1,9 @@
+
+.my-card {
+  @apply flex w-64 bg-white rounded-lg p-6 m-16 border-solid border-gray-200 border shadow-lg;
+
+  .my-avatar {
+    @apply flex-initial h-16 w-16 rounded-full mx-auto;
+  }
+}
+
